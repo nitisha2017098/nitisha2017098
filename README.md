@@ -84,15 +84,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/nitisha2017098/nitisha2017098/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
