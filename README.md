@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Nitisha</h1>
-<h3 align="center">A passionate Software Developer and Data science enthusiasts from India</h3>
+<h1 align="center"> I'm Nitisha</h1>
+<h3 align="center">A passionate Software Developer and Data science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitisha2017098&label=Profile%20views&color=0e75b6&style=flat" alt="nitisha2017098" /> </p>
+- 🔭 I’m currently Last year Information Technology Student
+- 🌱 I’m currently learning Web Development and Data Science
+- 👯 I’m looking to collaborate on a community-based project to contribute 
+- 🤔 I’m looking for help with Data Structure and Algorithm
+- 💬 Ask me about anything
+- 📫 How to reach me: nitisha2017098
+- 😄 Pronouns: SHE/HER
+- ⚡ Fun fact **mindfulness**
 
-- ⚡ Fun fact **mindfullness**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nitisin50356890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitisin50356890" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitisha-kumari-207a35221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitisha-kumari-207a35221/" height="30" width="40" /></a>
