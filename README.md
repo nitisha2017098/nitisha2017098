@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitisha2017098&label=Profile%20views&color=0e75b6&style=flat" alt="nitisha2017098" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on my Major Project of college<br> - 🌱 I’m currently learning Web development and <br> - 👯 I’m looking to collaborate on open-source <br>- 🤔 I’m looking for help with DSA<br>- 💬 Ask me about anything<br>- 📫 How to reach me: nitisha2017098<br>- 😄 Pronouns: SHE/HER<br>- ⚡ Fun fact: mindfulness
+- 🔭 I’m currently working on my Major Project of college<br> - 🌱 I’m currently learning Web development and <br> - 👯 I’m looking to collaborate on open-source <br>- 🤔 I’m looking for help with DSA<br>- 💬 Ask me about anything<br>- 📫 How to reach me: nitisingh8863@gmail.com<br>- 😄 Pronouns: SHE/HER<br>- ⚡ Fun fact: mindfulness
 
 
 ## 🌐 Socials:
